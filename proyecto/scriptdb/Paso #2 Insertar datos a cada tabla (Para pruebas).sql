@@ -8,7 +8,7 @@ INSERT INTO dbo.OROL (NameRole, Description, status, DateCreated, CreatedBy) VAL
 ('Gerente', 'Maneja operaciones y reportes', 1, GETDATE(), 1);
 GO
 
--- Insertar en la tabla de usuarios (OUSR) después de que los roles estén establecidos
+-- Insertar en la tabla de usuarios (OUSR) después de que los roles estén establecidos, la contraseña ya sin el patron de encriptamiento es: 12345
 INSERT INTO dbo.OUSR (ID_Rol, NameUser, Name, LastName, Email, Password, status, DateCreated, CreatedBy) VALUES
 (1, 'admin', 'Juan', 'Perez', 'admin@pizzeria.com', '$2a$11$B/wZePJ.zO/pWdK5e7xav./6YYqHvgCgihbN7eeFKfuqUKgnjm7p2', 1, GETDATE(), 1),
 (2, 'vendedor1', 'Ana', 'Lopez', 'vendedor1@pizzeria.com', '$2a$11$B/wZePJ.zO/pWdK5e7xav./6YYqHvgCgihbN7eeFKfuqUKgnjm7p2', 1, GETDATE(), 1),

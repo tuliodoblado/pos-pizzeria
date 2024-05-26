@@ -19,10 +19,19 @@ Para configurar la base de datos, siga los siguientes pasos:
 - **Version de .NET:** Microsoft .NET 8.0.3
 - **Proyecto:** ASP.NET Core Web API
 - **Diseno:** Estructura Organizacional + Arquitectura en Capas
-- **Framework ORM:** Entity Framework Core
+- **Framework ORM:** `microsoft.entityframeworkcore.sqlserver`
 - **Seguridad:** `Microsoft.AspNetCore.Authentication.JwtBearer` 8.0.5
 - **Encriptamiento de Datos:** `BCrypt.Net-Next` 4.0.3
 - **Mapeo de Entidades:** `AutoMapper` 13.0.1
 
-### Frontend
+**Otras librerias utilizadas:** 
+   - **.** `microsoft.entityframeworkcore.relational`
+   - **.** `microsoft.entityframeworkcore.tools`
+   - **.** `microsoft.identitymodel.tokens`
+   - **.** `newtonsoft.json`
+   - **.** `system.identitymodel.tokens.jwt`
 
+### Frontend
+Actualmente, el proyecto no incluye una interfaz grafica de usuario, ya que mi experiencia en la creacion de Windows Forms es limitada, el backend esta funcional y listo para ser integrado con cualquier frontend que se desee desarrollar. Se me expuso en la reunion que dejara este comentario.
+
+### Saludos
