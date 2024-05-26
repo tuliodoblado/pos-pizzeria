@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "355lay6BKzUEuBco7JNEa86OnKtBkn4j2cdjuRnHUAhLpvNfjmg1I1jRzO1ilSRaf8J/qsMycMtlvkd4dh8DwA==",
+  "dgSpecHash": "nw75ISaaxA31yBBFAnLQtDdu4KK1rt/9ps8AUOsdeB6U2iNGPHKlR/6USJqoTC37LNr/5FmojBndATE95BTpnw==",
   "success": true,
-  "projectFilePath": "E:\\proyecto\\backend\\api_pospizzeria\\api_pospizzeria\\api_pospizzeria.csproj",
+  "projectFilePath": "E:\\gitbuh\\pos-pizzeria\\proyecto\\backend\\api_pospizzeria\\api_pospizzeria\\api_pospizzeria.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

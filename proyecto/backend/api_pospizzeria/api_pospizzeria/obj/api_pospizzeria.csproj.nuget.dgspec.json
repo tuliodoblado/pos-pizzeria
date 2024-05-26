@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\proyecto\\backend\\api_pospizzeria\\api_pospizzeria\\api_pospizzeria.csproj": {}
+    "E:\\gitbuh\\pos-pizzeria\\proyecto\\backend\\api_pospizzeria\\api_pospizzeria\\api_pospizzeria.csproj": {}
   },
   "projects": {
-    "E:\\proyecto\\backend\\api_pospizzeria\\api_pospizzeria\\api_pospizzeria.csproj": {
+    "E:\\gitbuh\\pos-pizzeria\\proyecto\\backend\\api_pospizzeria\\api_pospizzeria\\api_pospizzeria.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\proyecto\\backend\\api_pospizzeria\\api_pospizzeria\\api_pospizzeria.csproj",
+        "projectUniqueName": "E:\\gitbuh\\pos-pizzeria\\proyecto\\backend\\api_pospizzeria\\api_pospizzeria\\api_pospizzeria.csproj",
         "projectName": "api_pospizzeria",
-        "projectPath": "E:\\proyecto\\backend\\api_pospizzeria\\api_pospizzeria\\api_pospizzeria.csproj",
+        "projectPath": "E:\\gitbuh\\pos-pizzeria\\proyecto\\backend\\api_pospizzeria\\api_pospizzeria\\api_pospizzeria.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\proyecto\\backend\\api_pospizzeria\\api_pospizzeria\\obj\\",
+        "outputPath": "E:\\gitbuh\\pos-pizzeria\\proyecto\\backend\\api_pospizzeria\\api_pospizzeria\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

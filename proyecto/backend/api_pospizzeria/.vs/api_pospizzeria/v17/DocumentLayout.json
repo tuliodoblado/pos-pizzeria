@@ -1,12 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\proyecto\\backend\\api_pospizzeria\\",
-  "Documents": [],
+  "WorkspaceRootPath": "E:\\gitbuh\\pos-pizzeria\\proyecto\\backend\\api_pospizzeria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA5BD195-FC12-4605-8B93-C0A94EEA152D}|api_pospizzeria\\api_pospizzeria.csproj|e:\\gitbuh\\pos-pizzeria\\proyecto\\backend\\api_pospizzeria\\api_pospizzeria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA5BD195-FC12-4605-8B93-C0A94EEA152D}|api_pospizzeria\\api_pospizzeria.csproj|solutionrelative:api_pospizzeria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\gitbuh\\pos-pizzeria\\proyecto\\backend\\api_pospizzeria\\api_pospizzeria\\Program.cs",
+              "RelativeDocumentMoniker": "api_pospizzeria\\Program.cs",
+              "ToolTip": "E:\\gitbuh\\pos-pizzeria\\proyecto\\backend\\api_pospizzeria\\api_pospizzeria\\Program.cs",
+              "RelativeToolTip": "api_pospizzeria\\Program.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAGEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T17:07:20.851Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
